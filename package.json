@@ -1,0 +1,12 @@
+{
+  "name": "welcomingbot",
+  "description": "A simple welcoming Discord bot coded using the Discord.js library.",
+  "version": "1.1.2",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "13.3.0"
+  }
+}
